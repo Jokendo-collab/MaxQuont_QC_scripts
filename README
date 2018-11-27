@@ -2,4 +2,5 @@ The following script "MaxQuont_QC_script" is used to asses the quality control m
 To use it you need to do the following:
 1. install the PTXQC plus all the dependencies
 2. Provide the path to the "txt" directory with the variable name of interest
+NOTE: you can also use choose.dir() function to select the "txt" directory
 And run the job! Good luck
